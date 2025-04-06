@@ -5,6 +5,7 @@
 - **Course:** Object Oriented Programming (SECJ2154)
 - **Email:** nurfirzana@graduate.utm.my
 - **GitHub Username:** firzanabadrus
+<br>
 
 ## About Me
-> Write a short introduction about yourself and your learning goals.
+I am a second-year Computer Science (Data Engineering) student at Universiti Teknologi Malaysia. I enjoy learning.
