@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // Question 1
+        // Question 1 
         System.out.println("Question 1");
 
         Employee e1 = new Employee();
