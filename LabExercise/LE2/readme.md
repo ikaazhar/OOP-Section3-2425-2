@@ -1,4 +1,4 @@
-# 📘 OOP Lab Exercise - Questions
+# 📘 OOP Lab Exercise 2 - Questions
 
 
 ## ONCE FINISH ALL QUESTIONS.. COMBINE AND TUNE IT ALL IN 1 .JAVA FILE (COMPILABLE AND EXECUTABLE)
