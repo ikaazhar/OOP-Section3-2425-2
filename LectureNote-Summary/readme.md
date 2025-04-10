@@ -2,4 +2,4 @@
 
 [Chapter_1 - Intro to Java](./Chapter1-JavaIntro/)
 
-[Chapter_3 - Enum and Package](./Chapter3-EnumPackage/)
+[Chapter_3 - Enum and Package](./Chapter3-EnumPaackage/)
