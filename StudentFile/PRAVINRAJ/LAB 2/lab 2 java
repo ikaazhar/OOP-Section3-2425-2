@@ -1,1 +1,35 @@
+import java.lang.System;
+import java.util.Scanner;
 
+class Employee{
+    public
+    int EmpNum;
+    String EmpName;
+
+    void setEmpNum(int num){
+        EmpNum = num;
+    }
+
+    void setEmpName(String name){
+        EmpName = name;
+    }
+
+    int getEmpNum(){
+        return EmpNum;
+    }
+
+    String getEmpName(){
+        return EmpName;
+    }
+
+}
+
+public class Q1{
+    public static void main(String[] args){
+        Employee e1 = new Employee();
+        e1.setEmpNum(0147);
+        e1.setEmpName("PRAVINRAJ");
+        System.out.println("Employee Number: " +  e1.getEmpNum());
+        System.out.println("Employee Name :" + e1.getEmpName());
+    }
+}
